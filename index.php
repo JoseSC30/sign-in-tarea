@@ -21,7 +21,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>CUENTAS DE USUARIO</title>
+    <title>CUENTAS</title>
     <link href="https://fonts.googleapis.com/css?family=Bebas Neue" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
